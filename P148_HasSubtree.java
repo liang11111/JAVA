@@ -77,6 +77,6 @@ public class P148_HasSubtree {
         P148_HasSubtree test = new P148_HasSubtree();
         result = test.HasSubtree(root1, root2);
 
-        System.out.print(result);
+        System.out.println(result);
     }
 }
